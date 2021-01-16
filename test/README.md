@@ -2,7 +2,7 @@ Running the tests:
 
 ```bash
 # Token to be used
-export TEST_TELEGRAM_TOKEN=<YOUR_BOT_TOKEN>
+export TEST_TELEGRAM_TOKEN=<1427350757:AAHvPQA23i-sHCqdoc-XlMaGzTQEDJ5DZ5U>
 
 # User Id which you want to send the messages.
 export TEST_USER_ID=<USER_ID>
